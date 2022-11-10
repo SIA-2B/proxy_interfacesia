@@ -1,5 +1,5 @@
-# Proxy inverso de la interface
+# nginx-ssl-client
 
-## Instrucciones
 
-1. Ejecutar `docker-compose up --build`
+
+
